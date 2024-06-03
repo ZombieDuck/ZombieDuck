@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZombieDuck
-- 👀 I’m interested in beginning a career in Software Development.
+- 👀 I’m interested in beginning a career in Software Development or Cyber Security.
 - 🌱 I’m currently learning Python and C#.
 - 💞️ I’m looking to find others to help me on my journey towards a tech lead career & collaborate on projects.
 - 📫 LinkedIn: https://www.linkedin.com/in/ebonyleahfairchild/ 
